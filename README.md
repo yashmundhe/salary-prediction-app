@@ -123,7 +123,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Yash**
-- GitHub: [@yourusername](https://github.com/yashmundhe01)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yash-mundhe-30189819a/)
 
 
