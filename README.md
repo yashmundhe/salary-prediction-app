@@ -15,12 +15,8 @@ A machine learning web application that predicts salary based on years of experi
 
 ## 🚀 Live Demo
 
-[Add your deployed app link here - e.g., Streamlit Cloud, Heroku, etc.]
+(https://salary-prediction-app-kqjykmqdvaxjrmarjvy4dw.streamlit.app/)
 
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png)
-*Add a screenshot of your app here*
 
 ## 🛠️ Technologies Used
 
@@ -110,39 +106,6 @@ The model was trained using the Jupyter notebook `Simple_Linear_Regression.ipynb
 
 3. The trained model will be saved as `salary_model.pkl`
 
-## 🚀 Deployment
-
-### Deploy to Streamlit Cloud (Recommended)
-
-1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click "New app"
-5. Select your repository and branch
-6. Set main file path to `app.py`
-7. Click "Deploy"
-
-### Deploy to Heroku
-
-1. Create a `Procfile`:
-   ```
-   web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
-   ```
-
-2. Create a `setup.sh`:
-   ```bash
-   mkdir -p ~/.streamlit/
-   echo "\
-   [server]\n\
-   headless = true\n\
-   port = $PORT\n\
-   enableCORS = false\n\
-   \n\
-   " > ~/.streamlit/config.toml
-   ```
-
-3. Deploy using Heroku CLI
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -160,18 +123,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Yash**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/yashmundhe01)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yash-mundhe-30189819a/)
 
-## 🙏 Acknowledgments
-
-- Dataset source: [Add if applicable]
-- Inspired by salary prediction models in the data science community
-- Built with [Streamlit](https://streamlit.io/)
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out via [your-email@example.com](mailto:your-email@example.com)
+For any questions or feedback, please reach out via yashmundhe01@gmail.com
 
 ---
 
